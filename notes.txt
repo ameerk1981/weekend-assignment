@@ -1,0 +1,11 @@
+Basic Git Commands
+
+git clone = copies a repository to your computer
+git status = shows changed files
+git add . = stages files
+git commit -m "message" = saves changes
+git push = sends changes to GitHub
+git pull = gets latest changes from GitHub
+git checkout branch-name = switch branch
+git checkout -b branch-name = create and switch branch
+git branch = shows branches
